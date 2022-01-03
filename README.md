@@ -2,7 +2,7 @@
 
 Öncelikle projeyi clonelayın.
 
-(https://github.com/AlpayBeydemir/hakk-mda2.git)
+(https://github.com/AlpayBeydemir/htmlodev2.git)
 
 # Usage
 
